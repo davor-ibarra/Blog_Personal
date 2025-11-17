@@ -1,6 +1,6 @@
 ---
 created: 20251117 14:11
-update: 20251117-15:16
+update: 20251117-15:18
 summary:
 status:
 link:
@@ -13,3 +13,5 @@ Si que va no?
 Y ahora?
 
 Ahora si que si?
+
+noooo
